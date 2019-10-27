@@ -12,6 +12,8 @@ public class HelloTest {
 		String actual = Hello.hello();
 		String expected = "Hello, world!";
 		
+		//Another random comment to test git push
+		
 		assertEquals(expected, actual);
 	}
 }

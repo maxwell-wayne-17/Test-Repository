@@ -13,6 +13,8 @@ public class Hello {
 		return "Hello, world!";
 	}
 	
+	//Random comment to test git push
+	
 	public static void main(String[] args) {
 		String hello = hello();
 		System.out.println(hello);
